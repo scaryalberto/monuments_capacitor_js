@@ -1,12 +1,12 @@
 [
         {
           "nome": "Reggia di Caserta",
-          ""latitudine"": 41.0747,
-          ""descrizione"": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
-          ""longitudine"": 14.3274,
-          ""distanza"": 0,
-           ""url_wikipedia"": "https://it.wikipedia.org/wiki/Reggia_di_Caserta",
-          ""url_maps"": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          "latitudine": 41.0747,
+          "descrizione": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
+          "longitudine": 14.3274,
+          "distanza": 0,
+           "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta",
+          "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
         },
         {
           "nome": "Chiesa di San Ferdinando Re",
