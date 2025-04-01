@@ -1,91 +1,91 @@
 [
         {
-          nome: "Reggia di Caserta",
-          latitudine: 41.0747,
-          descrizione: "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
-          longitudine: 14.3274,
-          distanza: 0,
-           url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta",
-          url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          "nome": "Reggia di Caserta",
+          ""latitudine"": 41.0747,
+          ""descrizione"": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
+          ""longitudine"": 14.3274,
+          ""distanza"": 0,
+           ""url_wikipedia"": "https://it.wikipedia.org/wiki/Reggia_di_Caserta",
+          ""url_maps"": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
         },
         {
-          nome: "Chiesa di San Ferdinando Re",
-          latitudine: 41.0678,
-          descrizione: "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
-          longitudine: 14.3301,
-          distanza: 0,
-          url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+          "nome": "Chiesa di San Ferdinando Re",
+          "latitudine": 41.0678,
+          "descrizione": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
+          "longitudine": 14.3301,
+          "distanza": 0,
+          "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
         },
         {
-          nome: "Palazzo Paternò",
-          latitudine: 41.0683,
-          descrizione: "il palazzo Paternò è un palazzo di Caserta.[1] La sua realizzazione, compresa fra il 1765 e il 1775, è attribuita all'architetto Gaetano Barba.[2] Appartiene alla famiglia Paternò.",
-          longitudine: 14.3326,
-          distanza: 0
-          , url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+          "nome": "Palazzo Paternò",
+          "latitudine": 41.0683,
+          "descrizione": "il palazzo Paternò è un palazzo di Caserta.[1] La sua realizzazione, compresa fra il 1765 e il 1775, è attribuita all'architetto Gaetano Barba.[2] Appartiene alla famiglia Paternò.",
+          "longitudine": 14.3326,
+          "distanza": 0
+          , "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
         },
         {
-          nome: "Chiesa di Sant'Anna",
-          latitudine: 41.0694,
-          distanza: 0,
-          descrizione: "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
-          longitudine: 14.3310
-          , url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+          "nome": "Chiesa di Sant'Anna",
+          "latitudine": 41.0694,
+          "distanza": 0,
+          "descrizione": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
+          "longitudine": 14.3310
+          , "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
         },
         {
-          nome: "Castello di Casertavecchia",
-          latitudine: 41.0817,
-          distanza: 0,
-          descrizione: "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
-          longitudine: 14.3516
-          , url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+          "nome": "Castello di Casertavecchia",
+          "latitudine": 41.0817,
+          "distanza": 0,
+          "descrizione": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
+          "longitudine": 14.3516
+          , "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
 
         },
         {
-          nome: "Duomo di Casertavecchia",
-          latitudine: 41.0824,
-          distanza: 0,
-          descrizione: "Il duomo di San Michele Arcangelo è il principale luogo di culto cattolico di Casertavecchia, fino al 1841 cattedrale della diocesi di Caserta.",
-          longitudine: 14.3506
-          , url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+          "nome": "Duomo di Casertavecchia",
+          "latitudine": 41.0824,
+          "distanza": 0,
+          "descrizione": "Il duomo di San Michele Arcangelo è il principale luogo di culto cattolico di Casertavecchia, fino al 1841 cattedrale della diocesi di Caserta.",
+          "longitudine": 14.3506
+          , "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
         },
         {
-          nome: "Duomo di Caserta",
-          latitudine: 41.0741,
-          distanza: 0,
-          descrizione: "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
-          longitudine: 14.3323
-          , url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+          "nome": "Duomo di Caserta",
+          "latitudine": 41.0741,
+          "distanza": 0,
+          "descrizione": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
+          "longitudine": 14.3323
+          , "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
         },
         {
-          nome: "Fontana di Diana e Atteone",
-          latitudine: 41.0781,
-          distanza: 0,
-          descrizione: "Oltre una balaustra ornata da 12 sculture, si trova l’ultima fontana della Via d’Acqua: la Fontana di Diana e Atteone. Un bacino ellittico, delimitato da finti scogli, raccoglie l’acqua della cascata del Monte Briano. Atteone, a sinistra, fugge dopo aver sorpreso Diana al bagno. La Dea, furente, punisce il giovane cacciatore trasformandolo in cervo: irriconoscibile, verrà sbranato dai suoi stessi cani. Realizzata tra il 1786 e il 1789, la Fontana di Diana e Atteone è frutto dell’intervento degli scultori Pietro Solari, Paolo Persico, Angelo Brunelli e Andrea Violani, su un modello complessivo realizzato da Tommaso Solari.",
-          longitudine: 14.3252
-          , url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+          "nome": "Fontana di Diana e Atteone",
+          "latitudine": 41.0781,
+          "distanza": 0,
+          "descrizione": "Oltre una balaustra ornata da 12 sculture, si trova l’ultima fontana della Via d’Acqua: la Fontana di Diana e Atteone. Un bacino ellittico, delimitato da finti scogli, raccoglie l’acqua della cascata del Monte Briano. Atteone, a sinistra, fugge dopo aver sorpreso Diana al bagno. La Dea, furente, punisce il giovane cacciatore trasformandolo in cervo: irriconoscibile, verrà sbranato dai suoi stessi cani. Realizzata tra il 1786 e il 1789, la Fontana di Diana e Atteone è frutto dell’intervento degli scultori Pietro Solari, Paolo Persico, Angelo Brunelli e Andrea Violani, su un modello complessivo realizzato da Tommaso Solari.",
+          "longitudine": 14.3252
+          , "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
         },
         {
-          nome: "Stadio della Casertana",
-          latitudine: 41.0745343,
-          distanza: 0,
-          descrizione: "Lo stadio Alberto Pinto è un impianto sportivo di Caserta ed è situato nella zona orientale della città.",
-          longitudine: 14.3439257
-          , url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+          "nome": "Stadio della Casertana",
+          "latitudine": 41.0745343,
+          "distanza": 0,
+          "descrizione": "Lo stadio Alberto Pinto è un impianto sportivo di Caserta ed è situato nella zona orientale della città.",
+          "longitudine": 14.3439257
+          , "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
         },
-        {          nome: "Villa Comunale",
-          latitudine: 41.0680,
-          distanza: 0,
-          descrizione: "La Villa comunale (già Villa Reale o Real Passeggio di Chiaia, poi Villa Nazionale e Villa Municipale) è uno dei principali giardini storici di Napoli.",
-          longitudine: 14.3320          , url_maps: "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
-          , url_wikipedia: "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
+        {          "nome": "Villa Comunale",
+          "latitudine": 41.0680,
+          "distanza": 0,
+          "descrizione": "La Villa comunale (già Villa Reale o Real Passeggio di Chiaia, poi Villa Nazionale e Villa Municipale) è uno dei principali giardini storici di Napoli.",
+          "longitudine": 14.3320          , "url_maps": "https://www.google.it/maps/place/Reggia+di+Caserta/@41.0731722,14.3246183,17z/data=!3m2!4b1!5s0x133a55b23cc51487:0xe6922395fd344b8b!4m6!3m5!1s0x133a55b22aed1333:0xc79c020a24847245!8m2!3d41.0731682!4d14.3271932!16zL20vMDNmaGpn?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
+          , "url_wikipedia": "https://it.wikipedia.org/wiki/Reggia_di_Caserta"
         }
       ];
