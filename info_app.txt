@@ -1,0 +1,6 @@
+per avviare-> live-server
+
+build app -> da android studio
+
+sincronizza tutto -> npx cap sync android
+apri in adnroid -> npx cap open android
