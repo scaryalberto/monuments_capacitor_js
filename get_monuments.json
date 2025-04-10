@@ -1,5 +1,5 @@
 [
-    {
+    {"id":1,
       "nome": "Reggia di Caserta",
       "latitudine": 41.0747,
       "descrizione": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
@@ -10,7 +10,7 @@
       ,"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caserta%2C_Palazzo_Patern%C3%B2.jpg/675px-Caserta%2C_Palazzo_Patern%C3%B2.jpg"
 
     },
-    {
+    {"id":2,
       "nome": "Chiesa di San Ferdinando Re",
       "latitudine": 41.0678,
       "descrizione": "La reggia di Caserta è una residenza reale, storicamente appartenuta ai Borbone delle Due Sicilie, ubicata a Caserta. Voluta da Carlo di Borbone, la posa della prima pietra, che diede l'avvio ai lavori di costruzione, si ebbe il 20 gennaio 1752, su progetto di Luigi Vanvitelli: a questo seguirono il figlio Carlo e altri architetti. La reggia venne conclusa nel 1845.",
@@ -21,7 +21,7 @@
       ,      "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caserta%2C_Palazzo_Patern%C3%B2.jpg/675px-Caserta%2C_Palazzo_Patern%C3%B2.jpg"
 
     },
-    {
+    {"id":3,
       "nome": "Palazzo Paternò",
       "latitudine": 41.0683,
       "descrizione": "il palazzo Paternò è un palazzo di Caserta.[1] La sua realizzazione, compresa fra il 1765 e il 1775, è attribuita all'architetto Gaetano Barba.[2] Appartiene alla famiglia Paternò.",
@@ -32,7 +32,7 @@
       "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caserta%2C_Palazzo_Patern%C3%B2.jpg/675px-Caserta%2C_Palazzo_Patern%C3%B2.jpg"
 
     },
-    {
+    {"id":4,
       "nome": "Chiesa di Sant'Anna",
       "latitudine": 41.0694,
       "distanza": 0,
@@ -43,7 +43,7 @@
       ,      "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caserta%2C_Palazzo_Patern%C3%B2.jpg/675px-Caserta%2C_Palazzo_Patern%C3%B2.jpg"
 
     },
-    {
+    {"id":5,
       "nome": "Castello di Casertavecchia",
       "latitudine": 41.0817,
       "distanza": 0,
@@ -54,7 +54,7 @@
       ,      "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caserta%2C_Palazzo_Patern%C3%B2.jpg/675px-Caserta%2C_Palazzo_Patern%C3%B2.jpg"
 
     },
-    {
+    {"id":6,
       "nome": "Duomo di Casertavecchia",
       "latitudine": 41.0824,
       "distanza": 0,
@@ -65,7 +65,7 @@
       ,      "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caserta%2C_Palazzo_Patern%C3%B2.jpg/675px-Caserta%2C_Palazzo_Patern%C3%B2.jpg"
 
     },
-    {
+    {"id":7,
       "nome": "Duomo di Caserta",
       "latitudine": 41.0741,
       "distanza": 0,
@@ -76,7 +76,7 @@
       ,      "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caserta%2C_Palazzo_Patern%C3%B2.jpg/675px-Caserta%2C_Palazzo_Patern%C3%B2.jpg"
 
     },
-    {
+    {"id":8,
       "nome": "Fontana di Diana e Atteone",
       "latitudine": 41.0781,
       "distanza": 0,
@@ -87,7 +87,7 @@
       ,      "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caserta%2C_Palazzo_Patern%C3%B2.jpg/675px-Caserta%2C_Palazzo_Patern%C3%B2.jpg"
 
     },
-    {
+    {"id":9,
       "nome": "Stadio della Casertana",
       "latitudine": 41.0745343,
       "distanza": 0,
@@ -100,7 +100,7 @@
 
     },
 
-    {          "nome": "Villa Comunale",
+    {      "id":10,    "nome": "Villa Comunale",
       "latitudine": 41.0680,
       "distanza": 0,
       "descrizione": "La Villa comunale (già Villa Reale o Real Passeggio di Chiaia, poi Villa Nazionale e Villa Municipale) è uno dei principali giardini storici di Napoli.",
